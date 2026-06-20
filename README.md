@@ -1,28 +1,35 @@
 # Hi, I'm Masoumeh Ashrafi
 
-I am a Freelance Frontend Engineer specializing in React, Next.js, and TypeScript, with a strong focus on SEO, web performance, accessibility, and RTL/i18n user interfaces.
+**Freelance Frontend Engineer** specializing in **React, Next.js, and TypeScript**.
 
-I build fast, maintainable, and user-centered web applications for startups, businesses, and international clients. My work focuses on clean UI, responsive layouts, SEO-friendly frontend architecture, and scalable component-based systems.
+I build fast, accessible, and SEO-friendly web applications with a focus on clean UI, web performance, and RTL/i18n user experiences.
 
-## Core Areas
+## Core Focus
 
 * React, Next.js, TypeScript
 * SEO-friendly frontend architecture
 * Web performance optimization
 * Responsive and accessible UI development
 * RTL/i18n interfaces for multilingual products
-* Clean, maintainable frontend code
+* Clean, maintainable, component-based frontend code
 
-## Current Focus
+## Current Work
 
-* Building production-ready Next.js projects
-* Improving SEO and performance for frontend applications
-* Creating RTL/i18n-ready web interfaces
-* Documenting projects as professional case studies
+* Building production-ready frontend projects with Next.js
+* Improving my portfolio with case studies and technical documentation
+* Creating SEO-focused and performance-aware web interfaces
 * Preparing for freelance and remote frontend opportunities
+* Contributing to open-source projects related to frontend development
 
 ## Featured Links
 
-Portfolio: https://masoumeh-ashrafi-portfolio-hiad.vercel.app/
-LinkedIn: https://www.linkedin.com/in/masoumeh-ashrafi
-GitHub: https://github.com/masoumeh-ashrafi
+* Portfolio: https://masoumeh-ashrafi-portfolio-hiad.vercel.app/
+* LinkedIn: https://www.linkedin.com/in/masoumeh-ashrafi
+
+## Tech Stack
+
+React · Next.js · TypeScript · JavaScript · Tailwind CSS · HTML5 · CSS3 · Git · GitHub · SEO · Web Performance · Accessibility
+
+## Research Background
+
+I also have an academic background in software engineering, teaching, and research, including work related to text data dimensionality reduction, metaheuristic algorithms, and applied artificial intelligence.

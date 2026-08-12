@@ -7,10 +7,11 @@ I design and build high-performance frontend systems with React, Next.js, and Ty
 ---
 
 ### 🌟 What I Bring to the Table
-*   **Engineering Excellence:** Specialized in building robust, SEO-friendly web applications using **React, Next.js, and TypeScript**.
-*   **Architectural Focus:** I thrive on clean, maintainable, component-based architectures that prioritize web performance and core web vitals.
-*   **Global User Experience:** Deep expertise in crafting **RTL/i18n interfaces**, ensuring seamless accessibility for multilingual and diverse audiences.
-*   **Academic Rigor:** With a background as a University Professor, I bring analytical thinking and technical depth to every project—from dimensionality reduction in text data to applying complex metaheuristic algorithms.
+
+- **Frontend Architecture:** Designing maintainable, scalable frontend systems with clear boundaries and intentional technical decisions.
+- **Performance & SEO:** Building fast, search-ready experiences with Core Web Vitals, rendering strategy, and technical SEO in mind.
+- **Accessibility & RTL/i18n:** Creating inclusive, multilingual interfaces that work across languages, directions, and interaction modes.
+- **Architectural Thinking:** Applying ideas of structure, hierarchy, constraints, and human experience to the design of digital systems.
 
 ---
 

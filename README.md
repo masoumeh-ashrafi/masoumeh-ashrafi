@@ -36,7 +36,7 @@ I keep a foot in the academic world, exploring how emerging tech intersects with
 ### 🌐 Let's Connect
 I love discussing frontend architecture, tech-philosophy, and the future of web development. 
 - **[LinkedIn](https://www.linkedin.com/in/masoumeh-ashrafi)** | Professional Insights & Networking
-- **[Portfolio](https://masoumeh-ashrafi-portfolio-hiad.vercel.app/)** | My Projects & Case Studies
+- **[Portfolio](https://www.masoumeh-ashrafi.ir/)** | My Projects & Case Studies
 - **[YouTube](https://www.youtube.com/@masoumehAshrafi2020)** | Lectures & Tech Explorations
 
 ---

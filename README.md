@@ -1,8 +1,8 @@
 # Hi, I'm Masoumeh Ashrafi 👋
 
-**Academic Innovator | Frontend Architect | Zen Coder**
+**Architecture-minded Frontend Engineer**
 
-I bridge the gap between rigorous software engineering, academic research, and mindful UI development. My mission is to build digital experiences that are not only high-performing and scalable but also clean, accessible, and human-centric.
+I design and build high-performance frontend systems with React, Next.js, and TypeScript, with a strong focus on software architecture, accessibility, technical SEO, web performance, and RTL/i18n.
 
 ---
 

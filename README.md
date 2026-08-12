@@ -20,13 +20,11 @@ I design and build high-performance frontend systems with React, Next.js, and Ty
 - **Research Domains:** Applied AI, Metaheuristic Algorithms, Data Science.
 
 ---
-
 ### 🚀 Current Focus
-*   Architecting production-ready applications with Next.js 15+ and Server Components.
-*   Documenting my learning process through technical case studies on my [Portfolio](https://masoumeh-ashrafi-portfolio-hiad.vercel.app/).
-*   Bridging the gap between software development and mindful productivity (The "Zen Coder" journey).
-*   Seeking opportunities for high-impact, remote Frontend Engineering roles.
 
+- Building production-ready frontend systems with Next.js, React, and TypeScript.
+- Exploring frontend architecture, web performance, accessibility, technical SEO, and RTL/i18n.
+- Connecting architectural thinking, software engineering, teaching, and research.
 ---
 
 ### 📚 Academic & Research

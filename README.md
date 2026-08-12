@@ -28,7 +28,7 @@ I design and build high-performance frontend systems with React, Next.js, and Ty
 ---
 
 ### 📚 Academic & Research
-I keep a foot in the academic world, exploring how emerging tech intersects with software engineering education.
+Alongside frontend engineering, I teach at university and pursue doctoral research in architecture. This background shapes how I think about systems, structure, constraints, usability, and the design of digital experiences.
 👉 [View my Research & Publications](https://scholar.google.com/citations?user=PCfQ8hwAAAAJ)
 
 ---

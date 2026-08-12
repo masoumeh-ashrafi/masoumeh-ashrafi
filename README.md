@@ -15,11 +15,28 @@ I design and build high-performance frontend systems with React, Next.js, and Ty
 
 ---
 
-### 🛠 Tech Stack
-- **Frontend:** React, Next.js, TypeScript, JavaScript (ES6+), Tailwind CSS, HTML5, CSS3.
-- **Tools & Performance:** Git, GitHub, SEO Auditing, Web Vitals Optimization, Accessibility (A11y) standards.
-- **Research Domains:** Applied AI, Metaheuristic Algorithms, Data Science.
+### 🛠️ Core Tech Stack
 
+**Frontend**
+- React
+- Next.js
+- TypeScript
+- JavaScript
+- HTML
+- CSS / Tailwind CSS
+
+**Engineering Focus**
+- Frontend Architecture
+- Web Performance
+- Technical SEO
+- Accessibility
+- RTL/i18n
+- Responsive Design
+
+**Tools & Workflow**
+- Git & GitHub
+- ESLint
+- Vercel
 ---
 ### 🚀 Current Focus
 

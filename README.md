@@ -1,63 +1,58 @@
 # Hi, I'm Masoumeh Ashrafi 👋
 
-**Architecture-minded Frontend Engineer**
+Faculty member at the **University of Tehran** with a Ph.D. in **Artificial Intelligence**, working on AI research and teaching, and also active as a **frontend engineer** building modern web applications with **React**, **Next.js**, and **TypeScript**.
 
-I design and build high-performance frontend systems with React, Next.js, and TypeScript, with a strong focus on software architecture, accessibility, technical SEO, web performance, and RTL/i18n.
+## 🎓 Academic Role
 
----
+- Faculty member, University of Tehran
+- Ph.D. in Artificial Intelligence
+- Engaged in AI research and university teaching
 
-### 🌟 What I Bring to the Table
+## 💻 Frontend Engineering
 
-- **Frontend Architecture:** Designing maintainable, scalable frontend systems with clear boundaries and intentional technical decisions.
-- **Performance & SEO:** Building fast, search-ready experiences with Core Web Vitals, rendering strategy, and technical SEO in mind.
-- **Accessibility & RTL/i18n:** Creating inclusive, multilingual interfaces that work across languages, directions, and interaction modes.
-- **Architectural Thinking:** Applying ideas of structure, hierarchy, constraints, and human experience to the design of digital systems.
+Alongside my academic work, I design and build frontend applications and user interfaces using:
 
----
-
-### 🛠️ Core Tech Stack
-
-**Frontend**
 - React
 - Next.js
 - TypeScript
-- JavaScript
-- HTML
-- CSS / Tailwind CSS
 
-**Engineering Focus**
-- Frontend Architecture
-- Web Performance
-- Technical SEO
-- Accessibility
-- RTL/i18n
-- Responsive Design
+## 🚀 Selected Projects
 
-**Tools & Workflow**
-- Git & GitHub
-- ESLint
-- Vercel
----
-### 🚀 Current Focus
+- **Razy — B2B Platform**: A business-to-business web platform. See the full project details on my website below.
+- **Permanent Makeup Portfolio**: A portfolio website showcasing permanent makeup work. See the full project details on my website below.
 
-- Building production-ready frontend systems with Next.js, React, and TypeScript.
-- Exploring frontend architecture, web performance, accessibility, technical SEO, and RTL/i18n.
-- Connecting architectural thinking, software engineering, teaching, and research.
----
+More details about these projects are available on my personal website.
 
-### 📚 Academic & Research
-Alongside frontend engineering, I teach at university and pursue doctoral research in architecture. This background shapes how I think about systems, structure, constraints, usability, and the design of digital experiences.
-👉 [View my Research & Publications](https://scholar.google.com/citations?user=PCfQ8hwAAAAJ)
+## 📚 Publications
 
----
+My academic publications are listed on my Google Scholar profile:
 
-### 🌐 Let's Connect
-I love discussing frontend architecture, tech-philosophy, and the future of web development. 
-- **[LinkedIn](https://www.linkedin.com/in/masoumeh-ashrafi)** | Professional Insights & Networking
-- **[Portfolio](https://www.masoumeh-ashrafi.ir/)** | My Projects & Case Studies
-- **[YouTube](https://www.youtube.com/@masoumehAshrafi2020)** | Lectures & Tech Explorations
+- [Google Scholar](https://scholar.google.com/citations?user=PCfQ8hwAAAAJ)
+
+## 🛠️ Skills
+
+**Artificial Intelligence**
+- AI research
+- University-level AI teaching
+
+**Frontend Development**
+- React
+- Next.js
+- TypeScript
+
+## 📫 Contact
+
+- Website: [masoumeh-ashrafi.ir](https://www.masoumeh-ashrafi.ir/)
+- LinkedIn: [masoumeh-ashrafi-96250825a](https://www.linkedin.com/in/masoumeh-ashrafi-96250825a/)
+- Google Scholar: [profile](https://scholar.google.com/citations?user=PCfQ8hwAAAAJ)
+- Email: masoumeh.ashrafi98@gmail.com
 
 ---
-*“Simplicity is the ultimate sophistication.”* – Building, Teaching, and Growing. 🌿
 
-![Masoumeh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=masoumeh-ashrafi&show_icons=true&theme=radical&hide_border=true&count_private=true)
+## درباره من
+
+من معصومه اشرفی هستم، عضو هیات علمی دانشگاه تهران و دارای دکترای هوش مصنوعی. در کنار فعالیت‌های پژوهشی و تدریس در حوزه هوش مصنوعی، به‌عنوان فرانت‌اند دولوپر نیز با فناوری‌های React، Next.js و TypeScript کار می‌کنم. از جمله پروژه‌های من می‌توان به پلتفرم B2B رازی و نمونه‌کار پرمننت میکاپ اشاره کرد که جزئیات کامل آن‌ها در وب‌سایت شخصی‌ام قابل مشاهده است. برای مشاهده انتشارات علمی می‌توانید به پروفایل Google Scholar من مراجعه کنید. راه‌های ارتباطی من شامل وب‌سایت، لینکدین، Google Scholar و ایمیل در بالا فهرست شده است.
+
+---
+
+> **Note:** Completing the next steps — reviewing each individual repository's description, topics, and README content, selecting the 6 strongest repositories to pin, and proposing consolidation of minor/practice repositories into a single repo (e.g. "learning-exercises" or "sandbox") — requires direct access to the actual GitHub account to inspect the real list of repositories. These details cannot be inferred or guessed without that direct review.

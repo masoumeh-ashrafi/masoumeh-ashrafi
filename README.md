@@ -18,11 +18,11 @@ Alongside my academic work, I design and build frontend applications and user in
 
 ## 🚀 Selected Projects
 
-- **Razy — B2B Platform**: A business-to-business web platform. See the full project details on my website below.
-- **Permanent Makeup Portfolio**: A portfolio website showcasing permanent makeup work. See the full project details on my website below.
+### Web Applications
 
-More details about these projects are available on my personal website.
-
+- **Razy — B2B Inventory Platform** — React and Vite; inventory search, stock status, and OTP sign-in. [Repository](https://github.com/masoumeh-ashrafi/razyar-project) · [Live demo](https://razyar-project.vercel.app)
+- **Personal Portfolio** — Next.js, TypeScript, and Tailwind CSS. [Repository](https://github.com/masoumeh-ashrafi/masoumeh-ashrafi-portfolio) · [Live demo](https://masoumeh-ashrafi-portfolio-hiad.vercel.app/)
+- **Fancy Clothes** — Interactive clothing storefront with an animated rack, built with JavaScript. [Repository](https://github.com/masoumeh-ashrafi/fancy-clothes) · [Live demo](https://masoumeh-ashrafi.github.io/fancy-clothes/)
 ## 📚 Publications
 
 My academic publications are listed on my Google Scholar profile:

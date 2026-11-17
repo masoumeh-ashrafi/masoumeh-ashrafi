@@ -52,7 +52,3 @@ My academic publications are listed on my Google Scholar profile:
 ## درباره من
 
 من معصومه اشرفی هستم، عضو هیات علمی دانشگاه تهران و دارای دکترای هوش مصنوعی. در کنار فعالیت‌های پژوهشی و تدریس در حوزه هوش مصنوعی، به‌عنوان فرانت‌اند دولوپر نیز با فناوری‌های React، Next.js و TypeScript کار می‌کنم. از جمله پروژه‌های من می‌توان به پلتفرم B2B رازی و نمونه‌کار پرمننت میکاپ اشاره کرد که جزئیات کامل آن‌ها در وب‌سایت شخصی‌ام قابل مشاهده است. برای مشاهده انتشارات علمی می‌توانید به پروفایل Google Scholar من مراجعه کنید. راه‌های ارتباطی من شامل وب‌سایت، لینکدین، Google Scholar و ایمیل در بالا فهرست شده است.
-
----
-
-> **Note:** Completing the next steps — reviewing each individual repository's description, topics, and README content, selecting the 6 strongest repositories to pin, and proposing consolidation of minor/practice repositories into a single repo (e.g. "learning-exercises" or "sandbox") — requires direct access to the actual GitHub account to inspect the real list of repositories. These details cannot be inferred or guessed without that direct review.
